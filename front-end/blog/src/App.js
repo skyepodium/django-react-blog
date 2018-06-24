@@ -1,6 +1,6 @@
 import React, { Component, Fragment } from 'react';
-import Header from './Header/Header';
-import Banner from './Banner/Banner';
+import Header from 'Header/Header';
+import Banner from 'Banner/Banner';
 
 class App extends Component {
   render () {
